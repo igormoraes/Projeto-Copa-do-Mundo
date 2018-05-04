@@ -1,4 +1,7 @@
 <header>
-	<meta charset="UTF-8"/>
-	<h1>COPA DO MUNDO DA FIFA 2018</h1>
+	<a href="index.php"> Pagina Inicial |</a>
+	<a href="cadastra_grupo.php"> Cadastrar Grupos |</a>
+	<a href="form_time.php"> Cadatrar Time |</a>
+	<a href="cadastra_jogo.php"> Cadatrar Jogos |</a>
 </header>
+
